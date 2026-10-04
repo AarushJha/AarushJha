@@ -1,8 +1,6 @@
 <h2 align="center">Hi 👋, I'm Aarush</h2>
 <h3 align="center">A high-school student from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarushjha" alt="aarushjha" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning with Python**
 
 - 📫 How to reach me **001aarushjha@gmail.com**
