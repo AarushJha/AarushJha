@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/aarushkumarjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aarushkumarjha" height="30" width="40" /></a>
-<a href="https://instagram.com/aarush.kjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aarush.kjha" height="30" width="40" /></a>
+<a href="https://instagram.com/aarush.kjha" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="aarush.kjha" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
